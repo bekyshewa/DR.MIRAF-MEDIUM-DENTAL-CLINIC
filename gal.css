@@ -1,0 +1,35 @@
+/* Apply black background and white text color to the body */
+body {
+  background-color: rgb(204, 196, 196);
+  color: rgb(8, 8, 8);
+  font-family: Arial, sans-serif;
+}
+
+/* Style for the header */
+header h1 {
+  font-family: Georgia, serif;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+/* Style for the news items */
+.news-item {
+  margin-bottom: 20px;
+}
+
+/* Style for the news item titles */
+.news-item h2 {
+  font-family: Verdana, sans-serif;
+  font-size: 24px;
+}
+
+/* Style for the highlighted news item */
+.qq {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+/* Marquee styles (customize as needed) */
+.news-scroll {
+  /* Your marquee styles go here */
+}
